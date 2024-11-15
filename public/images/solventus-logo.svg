@@ -1,0 +1,5 @@
+<svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="28" font-family="Arial" font-size="24" fill="#003366" font-weight="bold">Solventus</text>
+  <path d="M120 15 C 130 15, 140 25, 130 25" stroke="#2e8b57" fill="none" stroke-width="2"/>
+  <circle cx="135" cy="20" r="3" fill="#2e8b57"/>
+</svg>
